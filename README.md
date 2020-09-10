@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-![screenshot](https://github.com/kshiva1126/mi_card_flutter/blog/master/screenshot.png)
+<img src="https://github.com/kshiva1126/mi_card_flutter/blob/master/screenshot.png" width="20%">
 
 ## Our Goal
 
